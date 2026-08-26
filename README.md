@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I am currently pursuing my **BCA** and building a strong foundation in programming.
-- 🌱 Passionate about learning **C, C++, and Python** to crack placements.
-- ⚡ Always eager to learn new technologies and build cool projects.
+- 🔭 I Am Currently Pursuing **BCA** And Building A Strong Foundation In Programming
+- 🌱 Passionate About Learning **C++ And C++ With DSA Html css Javascript react.js Tilwindcss** To Crack Placements
+- ⚡ Always Eager To Learn New Technologies And Build Cool Projects
 
 ---
 
