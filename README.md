@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-[![Tech Stack](https://skillicons.dev/icons?i=cpp,c,html,css,js,react,tailwind,github,vscode)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=cpp,html,css,js,react,tailwind,github,vscode)](https://skillicons.dev)
 
 ---
 
