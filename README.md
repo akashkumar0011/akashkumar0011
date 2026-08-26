@@ -8,7 +8,7 @@
 
   ### 🚀 Tech Stack & Tools
   <p>
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,github,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,github,vscode" alt="Tech Stack" />
   </p>
 
   ---
