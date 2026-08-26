@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I Am Currently Pursuing my **BCA** and focusing on building a strong foundation in programming.
-- 🌱 Passionate about learning C++,C++ DSA, Frontend Development to crack placements.
-- ⚡ Always eager to learn new technologies and build cool projects.
+- 🔭 I Am Currently Pursuing BCA And Focusing On Building A Strong Foundation In Programming
+- 🌱 Passionate About Learning C++ C++ With DSA html Css javascript React and Tailwind Frontend Development To Crack Placements
+- ⚡ Always Eager To Learn New Technologies And Build Cool Projects
 
 ---
 
