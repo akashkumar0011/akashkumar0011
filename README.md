@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**akashkumar0011/akashkumar0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hello, I'm Aakash Kumar! 👋
 
-Here are some ideas to get you started:
+  <p><i>BCA Student | Aspiring Software Developer | C++ Developer | DSA Enthusiast | Front End | Web Development</i></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  ### 🚀 Tech Stack & Tools
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,git,github,vscode" alt="Tech Stack" />
+  </p>
+
+  ---
+
+  ### 📊 GitHub Stats
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=akashkumar0011&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </p>
+
+</div>
