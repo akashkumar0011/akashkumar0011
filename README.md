@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🔭 I Am Currently Pursuing BCA And Building A strong Foundation In Programming
-- 🌱 Passionate About Learning C++ C++ With DSA Html Css JavaScript Frontend Web Development To Crack Placements
+- 🌱 Passionate About Learning C++ C++ With Dsa Html Css JavaScript Frontend Web Development To Crack Placements
 - ⚡ Always Eager To Learn New Technologies And Build Cool Projects
 
 ---
