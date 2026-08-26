@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hello I am Aakash Kumar 👋
+  # Hello I am Akash Kumar 👋
 
   <p><i>BCA Student | Aspiring Software Developer | C++ Developer | DSA Enthusiast | Front End | Web Development</i></p>
 
