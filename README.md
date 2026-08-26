@@ -10,8 +10,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I am currently pursuing my **BCA** and focusing on building a strong foundation in programming.
-- 🌱 Passionate about learning **C, C++, and Python** to crack placements.
+- 🔭 I Am Currently Pursuing my **BCA** and focusing on building a strong foundation in programming.
+- 🌱 Passionate about learning C++,C++ DSA, Frontend Development to crack placements.
 - ⚡ Always eager to learn new technologies and build cool projects.
 
 ---
