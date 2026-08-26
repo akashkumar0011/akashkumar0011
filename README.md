@@ -5,30 +5,36 @@
 
 # Hello I Am Akash 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=false&vCenter=true&width=500&lines=BCA+Student+%F0%9F%91%68%E2%80%8D%F0%9F%92%bb;Passionate+Coder+%F0%9F%9A%80;Exploring+Tech+%26+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=false&vCenter=true&width=500&lines=BCA+Student+%F0%![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=38)
+
+# Hello I Am Akash 👋
+
+### Exploring Tech & Development
 
 ---
 
 ### 🚀 About Me
-- 🔭 I Am Currently Pursuing BCA And Focusing On Building A Strong Foundation In Programming
-- 🌱 Passionate About Learning C++ C++ With DSA html Css javascript React and Tailwind Frontend Development To Crack Placements
-- ⚡ Always Eager To Learn New Technologies And Build Cool Projects
+- 🔭 I am currently pursuing my **BCA** and building a strong foundation in programming.
+- 🌱 Passionate about learning **C, C++, and Python** to crack placements.
+- ⚡ Always eager to learn new technologies and build cool projects.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-[![Tech Stack](https://skillicons.dev/icons?ids=c,cpp,python,html,css,js,git,github,vscode)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,tailwind,github,vscode)](https://skillicons.dev)
 
 ---
 
 ### 📈 GitHub Stats
 <div align="center">
-  <!-- Apna GitHub username 'YOUR_USERNAME' ki jagah zaroor likhein -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashkumar0011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumar0011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
+%91%68%E2%80%8D%F0%9F%92%bb;Passionate+Coder+%F0%9F%9A%80;Exploring+Tech+%26+Development" alt
